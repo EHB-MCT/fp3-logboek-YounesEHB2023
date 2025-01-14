@@ -1,47 +1,42 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[14/01/2025]`  
+**Studentnaam:** `[Younes Ben Ali]`  
+**Groepsnaam:** `[AMD Ryzen 5]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
+- ik heb gewerkt aan mijn 2 persona's voor ons project
+- ik heb mijn moodboard afgwerkt aan de hand van de huisstijlgids van onze klant.
+- iedereen heeft samengewerkt om te brainstormen voor bepaalde concepten
 
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
-
----
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+_Instructie (1 item per dag volstaat):_  
+Mijn persoonlijk vooruitgang begon met mijn moodboard af te werken en mijn 2 persona's af te maken
+Ik heb geleerd dat er mogelijkheid was om zelf je chatgpt te maken met informatie die je Chatgpt geeft om zo alleen vragen en anwtoorden te hebben over de informatie die je hem geeft.
 
-
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
+> **Nieuwe skills:**
+>
+> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
 > - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
-
----
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+_Instructie:_  
+Vandaag voel ik me een beetje teleurgesteld, dit komt doordat onze groep niet weet of het een goed concept is of zelf haalbaar. We hebben het gevoel dat het wel mogelijk is maar we moeten gewoon in ons zelf geloven
 
+😐
 
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
+> **Algmeeen gevoel:**
+>
+> - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
 ---
 
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
