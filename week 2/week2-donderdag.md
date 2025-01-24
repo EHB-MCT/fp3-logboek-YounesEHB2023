@@ -11,12 +11,12 @@
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 - Ik heb de footer gemaak van onze website -> dankzij dit geeft men ook de identiteit
-van BIFFF en hier heb ik ook de link gezet naar de officiële website van BIFFF
+  van BIFFF en hier heb ik ook de link gezet naar de officiële website van BIFFF
 - Ik heb allerlei images geupload in onze code-> die we doorheen onze site hebben gebruikt.
 - Ik heb de planning pagina voor het meeste van de pagina
 - Ik heb de Home een beetje aangepast -> onze background image heb ik gemaakt
 - Ik heb de map pagina gemaakt -> deze pagina zorgt ervoor om 2 mappen te zien van het festival
-voor de bezoekers.
+  voor de bezoekers.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
@@ -27,7 +27,7 @@ Ik heb geleerd om een merge-conflict te begrijpen en opgelost te krijgen
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel me heel goed omdat mijn groep heel grote stappen hebben gedaan in zo een korte tijd. 
+Ik voel me heel goed omdat mijn groep heel grote stappen hebben gedaan in zo een korte tijd.
 We hebben de meeste pagina's gecodeerd in code. Ik heb 1 van de opdrachten ook ingediend
 _Instructie:_
 
