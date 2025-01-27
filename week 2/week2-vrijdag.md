@@ -10,7 +10,7 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Ik heb de connecties in de website in code geconnect-> zodat navigatie mogelijk is 
+- Ik heb de connecties in de website in code geconnect-> zodat navigatie mogelijk is
 - ik heb op de home pagina aanpassingen gemaakt
 - ik heb de feedback pagina gemaakt en gestyled
 - ik heb mijn presentatie gedaan
@@ -19,6 +19,7 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 _Instructie (1 item per dag volstaat):_
 Ik heb niet echt iets geleerd buiten de feedback te begrijpen
+
 > **Nieuwe skills:**
 
 ## 3) Wat is mijn gevoel over vandaag?
